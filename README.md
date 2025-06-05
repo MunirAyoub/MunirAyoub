@@ -5,7 +5,7 @@
 ###
 
 <p align="left">✳ - Currently studying at FIAP</p>
-
+<p align="left">✳ - Working at Quoretech</p>
 ###
 
 
