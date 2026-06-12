@@ -2,6 +2,12 @@
 
 ###
 
+<div align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=BD93F9&width=435&lines=Dev+from+Brazil+%E2%9C%9D;Game+Dev+Enthusiast+%F0%9F%8E%AE;Open+to+work+%26+freelance" alt="Typing SVG" />
+</div>
+
+###
+
 <p align="left">
 ✳ Junior Developer &nbsp;•&nbsp; 🎮 Game Dev Enthusiast<br>
 ✳ Currently studying Cybersecurity<br>
@@ -20,6 +26,8 @@
 </div>
 
 ###
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -52,5 +60,30 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MunirAyoub&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12&height=2&section=header" width="100%"/>
+
+```
+                        .  *  .   .          *
+              *      .            .     .            *
+          .            ___---___              .            *
+                  .--\        --.     .     .
+                ./.;_.\     __/~ \.
+               /;  / `-'  __\    . \             *
+        .     / ,--'     / .   .;   \        |
+             | .|       /       __   |      -O-       .
+            |__/    __ |  . ;   \ | . |      |
+            |      /  \\_    . ;| \___|
+       *    |      \  .~\\___,--'     |           .
+             |     | . ; ~~~~\_    __|
+        |     \    \   .  .  ; \  /_/   .
+       -O-     \   /         . |  ~/                  .
+        |   *   ~\ \   .  ;  \/_/~          .
+                  ~--___ ; ~~~/~                 *
+            *         /        .                .
+                  .            .       .           Munir // dev ✝
+```
 
 ###
